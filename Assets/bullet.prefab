@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bullet: {fileID: 5361779999253550306}
-  audio: {fileID: 0}
+  audio: {fileID: 3198842398019456195}
 --- !u!82 &3198842398019456195
 AudioSource:
   m_ObjectHideFlags: 0
