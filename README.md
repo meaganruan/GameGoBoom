@@ -1,10 +1,10 @@
 # GameGoBoom
 
 Lab Checklist
-layered background (background  /foreground):
+layered background (background  /foreground)
 -birds in foreground and sky in background
 
-at least one image:
+at least one image
 -
 
 a player-controlled sprite
