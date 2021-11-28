@@ -24,7 +24,7 @@ collision detection of bullets, using tags so that a player does not kill himsel
 -Enemybullet script's bullet marked player's plane tag to lose health
 
 sound effect on collisions
--I decided to create sound effects for initializing shots instead of collision. Audio called "explosion" or "gunshot".
+-sound effect occurs when player plane destroys the enemy plane.
 
 health score for player and enemy, displayed
 -displayed at the top side of each plane.
