@@ -14,7 +14,7 @@ public class SceneManagement : MonoBehaviour
 
     private void Update()
     {
-        BadEndScene();
+        RepeatScene();
         NextScene();
         GoodEndScene();
         
@@ -39,11 +39,11 @@ public class SceneManagement : MonoBehaviour
        
    }
 
-   public void BadEndScene()
+   public void RepeatScene()
    {
        if (planehealth.text == "Health: 0")
        {
-           SceneManager.LoadScene("BadEnd");
+           SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
        }
    }
 
