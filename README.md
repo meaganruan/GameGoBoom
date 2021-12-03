@@ -15,7 +15,7 @@ an enemy sprite with automatic movement
 -right plane.
 
 the ability for the player to shoot bullets at the enemy
--option key for mac.
+-x key.
 
 automatic shooting bullets from the enemy to the player
 -right plane.
@@ -53,20 +53,20 @@ pause/resume and link back to menu
 -at the top of each level
 
 some other UI (dropdown, toggle, input)
--Input for name
+-Input for name in main menu
 
 a data item that persist from scene to scene
--
+- player name.
 
 a second data item that persists
--
+- level.
 
 high scores (at least 5, presented in order)
--main menu -> highscores
+-main menu -> highscores but high scores page does not work
 
 animation #1
--
+- red bird
 
 animation #2
--
+- fireworks
 Extra credit: difficulty selection by player (with documentation about difficulty)
