@@ -62,11 +62,12 @@ a second data item that persists
 - level.
 
 high scores (at least 5, presented in order)
--main menu -> highscores but high scores page does not work
+-main menu -> highscores but high scores page does not work.
 
 animation #1
-- red bird
+- red bird.
 
 animation #2
-- fireworks
+- fireworks in good end scene.
+
 Extra credit: difficulty selection by player (with documentation about difficulty)
